@@ -1,0 +1,2 @@
+# kazmongo
+A mongodb client
